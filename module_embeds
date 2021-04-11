@@ -1,0 +1,40 @@
+const embed = new MessageEmbed()
+    .setColor('#FF0000')
+    .setDescription(
+        '<:cross:829822810884538378> Poucos argumentos foram atribuídos para a execução do comando. \n\n' +
+        '**Como usar:** `/comando <user> [reason]` \n\n' +
+        '**Problemas:** \n' +
+        '<:cross:829822810884538378> `User` não é um argumento válido. \n\n' +
+        '**Sinônimos:** \n' +
+        '<:warn:829823546733101057> `/comando1 | /comando2` \n\n' +
+        '**Argumentos:** \n' +
+        '<:cross:829822810884538378> `User:` Menção de usuário (@Draacxz#1953). O usuário tem que estar no servidor. \n' +
+        '<:warn:829823546733101057> `Reason:` Motivo explicando o porquê do comando ser executado. \n\n' +
+        '**Informações:** \n' +
+        '<:check:829822821337268255> - Atribuído. \n' +
+        '<:warn:829823546733101057> - Não atribuído / Não obrigatório. \n' +
+        '<:cross:829822810884538378> - Não atribuído / Obrigatório. \n' +
+        '`<Argumento>` - Obrigatório. \n' +
+        '`[Argumento]` - Opcional.' 
+        )
+
+const embed = new MessageEmbed()
+    .setColor('#FF0000')
+    .setDescription(
+        '<:cross:829822810884538378> Poucos argumentos foram atribuídos para a execução do comando. \n\n' +
+        '**Como usar:** `/comando <user> [reason]` \n\n' +
+        '**Problemas:** \n' +
+        '<:cross:829822810884538378> `User` não é um argumento válido. \n\n' +
+        '**Argumentos:** \n' +
+        '<:cross:829822810884538378> `User:` Menção de usuário (@Draacxz#1953). O usuário tem que estar no servidor. \n' +
+        '<:warn:829823546733101057> `Reason:` Motivo explicando o porquê do comando ser executado. \n\n' +
+        '**Informações:** \n' +
+        '<:check:829822821337268255> - Atribuído. \n' +
+        '<:warn:829823546733101057> - Não atribuído / Não obrigatório. \n' +
+        '<:cross:829822810884538378> - Não atribuído / Obrigatório. \n' +
+        '`<Argumento>` - Obrigatório. \n' +
+        '`[Argumento]` - Opcional.' 
+        )
+
+        'Ocorreu um erro na execução do comando.'.
+        'Houve um erro nos argumentos que foram atribuídos para a execução do comando.'.
